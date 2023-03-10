@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.jumbo{
+    height: 800px;
+    background-image: url('banner.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.brt{
+    height: 65px;
+    background-color: black;
+    color: white;
+}
+
+.bron li{
+    color:rgba(255,255,255,.75);
+    font-size: 13px;
+}
+
+.grenade{
+    height: 300px;
+    width: 300px;
+    color: white;
+    /* background-color: orange; */
+    position: relative;
+    top: 250px;
+}
+
+.iphonesec{
+    height: 500px;
+    /* background-color: orange; */
+}
+
+
+.geni{
+    background-color: lightgrey;
+    height: 400px;
+    width: 300px;
+}
+
+.intro{
+    /* height: 300px; */
+    background-color: white;
+}
+
+.intro i{
+    color: olivedrab;
+    font-size: 30px;
+}
+
+.holly{
+    /* height: 400px; */
+}
+
+.iomghov{
+    /* position: relative;
+     left: -23px;  */
+    /* margin-left: 5px; */
+    height: 242px;
+    margin-left: -10px;
+}
+
+
+.iomghov:hover{
+    
+    background: rgba(232,69,69,.9);
+    left: 0;
+    opacity: 0;
+    position: relative;
+    top: 0;
+    opacity: 0.8;
+    -webkit-transition:3s;
+    transition: 3s;
+    
+}
+
+.brazzers{
+    /* height: 200px; */
+    background-color: white;
+    position: relative;
+    left: 40px;
+}
+
+ .jersy{
+    /* height: 200px; */
+} 
+
+.para{
+    color: #6c7279;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.master{
+    color: red;
+     font-weight: 600;
+    font-size: 13px;
+}
+
+.jam{
+    color: #2d3033;
+    font-weight: 400;
+}
+
+.wall{
+    /* height: 200px; */
+    background-color: white;
+}
+
+.bryan{
+    height: 60px;
+    width: 200px;
+    background-color:#3bc492;
+    border: none;
+    color: white;
+    border-radius: 20px;
+}
+
+footer{
+    background-color: #181818;
+    color: rgba(255,255,255,.25);
+
+}
+
+.off{
+    color: white;
+}
